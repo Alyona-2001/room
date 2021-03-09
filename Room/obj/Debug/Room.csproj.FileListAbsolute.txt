@@ -1,0 +1,4 @@
+E:\Savchenko IST-1-19\Room\Room\bin\Debug\Room.exe
+E:\Savchenko IST-1-19\Room\Room\bin\Debug\Room.pdb
+E:\Savchenko IST-1-19\Room\Room\obj\Debug\Room.exe
+E:\Savchenko IST-1-19\Room\Room\obj\Debug\Room.pdb
